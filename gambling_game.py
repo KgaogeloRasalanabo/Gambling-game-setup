@@ -1,3 +1,6 @@
+# program will adjust the probability of a number based on the gambling company's account balance 
+# display random numbers based on their probability
+# update user & gambling company's account
 import random
 import sys
 
