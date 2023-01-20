@@ -55,7 +55,7 @@ def wager_validator(acc_balance2, user_bala2, numb2, play2):
     probability_adjust(acc_balance2, user_bala2, numb2, play2, stake)
 
 
-# probability adjustors & random number generator
+# probability adjusters & random number generator
 def probability_adjust(acc_balance, user_bala, numb, play, stake2):
     wage = int(stake2)
     given = [1, 2, 3, 4, 5]
