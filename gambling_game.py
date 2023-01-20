@@ -109,6 +109,7 @@ def communicator(account_balance, user_balance):
         sys.stdout = open("gambling game.txt", 'w')
         print(account_balance)
         sys.stdout.close()
+        exit()
 
     # initiates new player
     else:
